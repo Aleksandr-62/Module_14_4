@@ -1,6 +1,6 @@
-#The BOT is written in aiogram 3.x version for Python 3.13#
+*The BOT is written in aiogram 3.x version for Python 3.13*
 
-БОТ написан на aiogram 3.x версии для Python 3.13
+*БОТ написан на aiogram 3.x версии для Python 3.13*
 
 
 Цель: написать простейшие CRUD функции для взаимодействия с базой данных.
