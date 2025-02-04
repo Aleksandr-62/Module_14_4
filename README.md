@@ -1,4 +1,4 @@
-_The BOT is written in aiogram 3.x version for Python 3.13_
+#The BOT is written in aiogram 3.x version for Python 3.13#
 
 БОТ написан на aiogram 3.x версии для Python 3.13
 
